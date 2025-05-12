@@ -63,14 +63,9 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-18" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="513" y="100" />
+              <mxPoint x="513" y="90" />
               <mxPoint x="890" y="90" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LeVF7D9DHHddNrrJlqjf-3" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;strokeColor=default;strokeWidth=2;arcSize=20;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="gRxYTcbHVwbZ8eHR0LDx-18">
-          <mxGeometry x="0.0304" y="1" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-19" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="1" target="gRxYTcbHVwbZ8eHR0LDx-4" edge="1">
