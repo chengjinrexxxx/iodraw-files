@@ -10,7 +10,7 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-3" value="当班教师现场急救" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="813" y="240" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-4" value="保健人员" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-4" value="保健人员" style="rounded=0;arcSize=20;strokeWidth=2;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="74" y="240" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-5" value="园长" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
