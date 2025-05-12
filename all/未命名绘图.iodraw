@@ -52,10 +52,10 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-16" value="根据情况协同将幼儿送医院救治" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="398" y="629" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-2" edge="1">
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-17" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="370" y="70" />
+              <mxPoint x="520" y="90" />
               <mxPoint x="381" y="94" />
             </Array>
           </mxGeometry>
