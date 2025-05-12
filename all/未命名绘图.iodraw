@@ -32,7 +32,7 @@
           <mxGeometry x="436" y="316" width="126" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-10" value="后勤服务管理中心" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="239" y="414" width="159" height="49" as="geometry" />
+          <mxGeometry x="180" y="414" width="159" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-11" value="保教管理中心" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="446" y="414" width="126" height="49" as="geometry" />
@@ -40,8 +40,8 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-12" value="保健人员到现场,教师组织其他幼儿离开" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="778" y="513" width="228" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-13" value="安排车辆送医或根据情况拨打120" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="240" y="513" width="93" height="66" as="geometry" />
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-13" value="安排车辆送医&#xa;或根据情况&#xa;拨打120" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="181" y="513" width="93" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-14" value="根据情况上报教育部门" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="360" y="521.5" width="143" height="49" as="geometry" />
