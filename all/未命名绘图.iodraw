@@ -44,10 +44,10 @@
           <mxGeometry x="20" y="513" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-14" value="根据情况上报教育部门" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="340" y="521" width="143" height="49" as="geometry" />
+          <mxGeometry x="360" y="521.5" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-15" value="联系家长,做好家长工作" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="533" y="521" width="196" height="49" as="geometry" />
+          <mxGeometry x="520" y="521.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-16" value="根据情况协同将幼儿送医院救治" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="398" y="629" width="222" height="66" as="geometry" />
