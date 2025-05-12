@@ -7,9 +7,6 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-1" value="幼儿发生惊厥" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="434" y="20" width="157" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-2" value="保育员通知相关人员" style="rounded=1;arcSize=20;strokeWidth=2;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="294" y="100" width="174" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-3" value="当班教师现场急救" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="813" y="217" width="158" height="49" as="geometry" />
         </mxCell>
@@ -68,12 +65,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-19" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="1" target="gRxYTcbHVwbZ8eHR0LDx-4" edge="1">
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-19" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-2" target="gRxYTcbHVwbZ8eHR0LDx-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="121" y="144" />
             </Array>
-            <mxPoint x="380" y="170" as="sourcePoint" />
+            <mxPoint x="380" y="150" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-2" target="gRxYTcbHVwbZ8eHR0LDx-5" edge="1">
@@ -151,6 +148,16 @@
               <mxPoint x="892" y="660" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LeVF7D9DHHddNrrJlqjf-4" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="gRxYTcbHVwbZ8eHR0LDx-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="121" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-2" value="保育员通知相关人员" style="rounded=1;arcSize=20;strokeWidth=2;shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="294" y="130" width="174" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
