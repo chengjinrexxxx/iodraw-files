@@ -167,6 +167,9 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-2" value="保育员通知相关人员" style="rounded=0;arcSize=20;strokeWidth=2;shape=label;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="294" y="130" width="174" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="LeVF7D9DHHddNrrJlqjf-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;arcSize=20;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
