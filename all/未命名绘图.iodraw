@@ -50,7 +50,7 @@
           <mxGeometry x="520" y="521.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-16" value="根据情况协同将幼儿送医院救治" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="398" y="629" width="222" height="66" as="geometry" />
+          <mxGeometry x="414" y="647" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -132,9 +132,7 @@
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-31" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.97;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-11" target="gRxYTcbHVwbZ8eHR0LDx-15" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="630" y="488" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-32" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-13" target="gRxYTcbHVwbZ8eHR0LDx-16" edge="1">
