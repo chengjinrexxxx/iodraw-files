@@ -52,12 +52,8 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-16" value="根据情况协同将幼儿送医院救治" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="398" y="629" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="381" y="94" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-17" value="" style="startArrow=none;endArrow=block;exitX=0.08;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-3">
           <mxGeometry relative="1" as="geometry">
@@ -171,12 +167,6 @@
             <Array as="points">
               <mxPoint x="892" y="604" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gRxYTcbHVwbZ8eHR0LDx-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="460" as="sourcePoint" />
-            <mxPoint x="590" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
