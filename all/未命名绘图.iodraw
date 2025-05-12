@@ -63,7 +63,8 @@
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-18" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="gRxYTcbHVwbZ8eHR0LDx-1" target="gRxYTcbHVwbZ8eHR0LDx-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="55" />
+              <mxPoint x="513" y="120" />
+              <mxPoint x="890" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
