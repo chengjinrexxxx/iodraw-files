@@ -41,7 +41,7 @@
           <mxGeometry x="778" y="513" width="228" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-13" value="安排车辆送医&#xa;或根据情况&#xa;拨打120" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="181" y="513" width="93" height="66" as="geometry" />
+          <mxGeometry x="181" y="513" width="159" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gRxYTcbHVwbZ8eHR0LDx-14" value="根据情况上报教育部门" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="360" y="521.5" width="143" height="49" as="geometry" />
